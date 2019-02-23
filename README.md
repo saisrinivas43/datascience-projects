@@ -6,4 +6,4 @@ I have been learning DataScience on my own and via DataQuest and Lynda courses, 
 Objective of this project is to analyze if the price, mileage of an used car has any correlation to the brand of the car. The dataset and the project guidelines are provided by dataquest team. 
 
 ### Fandango Movie Ratings Comparison
-In 2015, Walt Hickey has done an investigation to prove Fandago is inflating popular movie ratings. This data analysis is to check if they are continuing to so that after Walt Hickey's report. Dataset is scraped and put together by Dataquest team. 
+In 2015, Walt Hickey has done an investigation to prove Fandago is inflating popular movie ratings. This data analysis is to check if they are continuing to change popular movie ratings after Walt Hickey's report. Walt Hickey's analysis was based on popular movies from 2015 and I used 2016 popular movies dataset, scraped and put together by Dataquest team for this analysis. 
