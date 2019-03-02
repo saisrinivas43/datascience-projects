@@ -4,7 +4,7 @@ I have been learning DataScience on my own and via DataQuest and Lynda courses, 
 
 I have listed the objectives of each project below
 
-### Used_Car_Sales_Analysis 
+### eBay Used Car Sales Analysis 
 Objective of this project is to analyze if the price, mileage of an used car has any correlation to the brand of the car. The dataset and the project guidelines are provided by dataquest team. 
 
 ### Fandango Movie Ratings Comparison
