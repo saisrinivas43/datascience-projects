@@ -13,4 +13,6 @@ In 2015, Walt Hickey has done an investigation to prove Fandago is inflating pop
 ### Chinook Store's Operational Analytics
 Chinook is fictional database store, the dataset for this project is curated by Team DataQuest and it contains, information about artists, songs and albums from the music shop. The objective of the project is to analyze Chinook Store's Business operations to derive useful insights related to their Sales trends and Support Agent's KPIs, which are ultimately used for better business decision making.
 
+### NYC School Data SAT scores analysis
+NYC has published data on student SAT scores by high school, along with additional demographic data sets. Aim of the this analysis is to see if SAT is a fair test. NYC has significant immigration population and is very diverse. This analysis takes race, income, and gender as factors to determine fairness of SAT. The Dataset and the project guidance provided by DataQuest team. 
 
